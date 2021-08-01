@@ -1,0 +1,1 @@
+from gcr.io/istio-testing/build-tools:master-2021-03-15T07-16-03
